@@ -25,4 +25,4 @@ Crafted in Unity with a passion for aesthetic interfaces, magic lore, and immers
 - 🧠 Discord Rich Presence (planned)
 
 ---
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ee4ae145-75d0-4106-9102-4cfd967403a9)
