@@ -1,6 +1,7 @@
 # 🎮 Eldrya: Knight's Dawn – Game Demo
 
-![Eldrya Logo](https://your-image-link-here)  
+![image](https://github.com/user-attachments/assets/3db82e50-1478-4185-84ca-ac1c49f2d8e1)
+
 *A stylish solo RPG prototype built with Unity & C#*
 
 ---
@@ -24,3 +25,4 @@ Crafted in Unity with a passion for aesthetic interfaces, magic lore, and immers
 - 🧠 Discord Rich Presence (planned)
 
 ---
+![Uploading image.png…]()
